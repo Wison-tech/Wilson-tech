@@ -95,7 +95,6 @@ Desarrollador Full Stack con más de **3 años de experiencia** construyendo apl
 |------|-------------|
 | 🌐 **Full Stack Web** | Apps empresariales con **Django + React**, ciclo completo de desarrollo hasta producción |
 | 🔗 **APIs** | Diseño de APIs RESTful escalables con autenticación **JWT** para integración frontend-backend |
-| 📦 **Odoo ERP** | Implementación y parametrización de módulos: ventas, inventario, contabilidad, RRHH |
 | 💼 **SAP B1 HANA** | Integración SAP Business One con Django REST API para sincronización financiera automatizada |
 | 📊 **Power BI** | Dashboards ejecutivos con DAX conectados a PostgreSQL y SAP B1 para KPIs gerenciales |
 | 🧠 **IA / ML** | Modelos de Deep Learning para automatización de procesos técnicos y reducción de errores |
