@@ -247,6 +247,7 @@ Integración de **Realidad Aumentada** en apps Flutter para visualización de da
 
 ---
 
+
 ## 🎓 Educación
 
 <table>
@@ -263,7 +264,10 @@ Formación técnica en desarrollo de software, bases de datos, metodologías ág
 </tr>
 </table>
 
----
+
+----
+
+
 
 ## 🌐 Idiomas
 
@@ -285,7 +289,14 @@ Formación técnica en desarrollo de software, bases de datos, metodologías ág
 [![WhatsApp](https://img.shields.io/badge/Escribir%20por%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573242332549)
 
 <br/>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,30&height=120&section=footer" width="100%"/>
+
 
 </div>
