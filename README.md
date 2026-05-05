@@ -230,7 +230,7 @@ Integración de **Realidad Aumentada** en apps Flutter para visualización de da
 | Período | Empresa | Rol |
 |---------|---------|-----|
 | 2024 – 2026 | **Packvision SAS** | Full Stack Developer & ERP Consultant |
-| 2022 – 2024 | **SENA – CBA** | Desarrollador de Software |
+| 2022 – 2024 | **SENA – CBA** | Aprendizaje Desarrollador de Software - Freelancer |
 
 <br/>
 
