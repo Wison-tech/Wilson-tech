@@ -237,7 +237,7 @@ Integración de **Realidad Aumentada** en apps Flutter para visualización de da
 
 ### 🏆 Logros clave
 
-![Años Exp](https://img.shields.io/badge/Experiencia-+3%20años-00F5FF?style=for-the-badge&logo=clockify&logoColor=white)
+![Años Exp](https://img.shields.io/badge/Experiencia-+3%20años-16537e?style=for-the-badge&logo=clockify&logoColor=white)
 ![ERP](https://img.shields.io/badge/ERP%20Implementados-Odoo%20%2B%20SAP%20B1-7B2FFF?style=for-the-badge&logo=sap&logoColor=white)
 ![BI](https://img.shields.io/badge/Dashboards%20Power%20BI-KPIs%20ejecutivos-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![IA](https://img.shields.io/badge/IA%20en%20producción-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
