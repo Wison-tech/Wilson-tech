@@ -34,7 +34,7 @@ const wilson = {
 };
 ```
 
-Desarrollador Full Stack con más de **4 años de experiencia** construyendo aplicaciones empresariales robustas. Especializado en integrar **ERP (Odoo, SAP B1)** con arquitecturas web modernas y desplegar **modelos de IA** en entornos reales. Sólida trayectoria con APIs RESTful, microservicios, visualización de datos con Power BI y soporte de infraestructura TI.
+Desarrollador Full Stack con más de **3 años de experiencia** construyendo aplicaciones empresariales robustas. Especializado en integrar **ERP (Odoo, SAP B1)** con arquitecturas web modernas y desplegar **modelos de IA** en entornos reales. Sólida trayectoria con APIs RESTful, microservicios, visualización de datos con Power BI y soporte de infraestructura TI.
 
 ---
 
