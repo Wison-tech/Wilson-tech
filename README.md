@@ -88,7 +88,7 @@ Desarrollador Full Stack con más de **3 años de experiencia** construyendo apl
 <td width="12px" style="background: linear-gradient(180deg, #7B2FFF, #00F5FF); border-radius: 4px;"></td>
 <td>
 
-### 🏢 Programador Full Stack — [Packvision SAS](https://packvision.co)
+### 🏢 Programador Full Stack — [Packvision SAS](https://empaquespackvision.com)
 **`Abril 2024 – Febrero 2026`** · Bogotá, Colombia
 
 | Área | Logros clave |
